@@ -1,0 +1,6 @@
+{
+  "name": "AvtoPark - Professional Parking Boshqaruv Tizimi",
+  "description": "Avtomobillar kirib-chiqishi, bo'sh va band parking joylari, avtomatik raqam aniqlash va tarif asosida to'lovni hisoblash tizimi.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
